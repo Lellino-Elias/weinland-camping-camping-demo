@@ -71,9 +71,9 @@ const weinlandCamping: CampsiteConfig = {
       "Vom Stellplatz direkt auf die Liegewiese: moderne Anlagen, viel Komfort und alles, was einen entspannten Campingtag in der Südsteiermark ausmacht.",
     features: [
       {
-        title: "Stellplätze mit Strom",
-        text: "38 ebene Touristenstellplätze mit 16-A-Stromanschluss und beschilderter Zufahrt — genügend Raum für dein persönliches Campingvergnügen.",
-        image: { src: `${IMG}/gallery-54e3075e00.webp`, alt: "Stellplätze mit Wohnmobil bei Weinland Camping" },
+        title: "Große Liegewiese",
+        text: "8.000 m² Liegewiese mit Schatten spendenden Bäumen und Sonnenschirmen — direkt am Naturbadesee, ideal zum Sonnen und Ausspannen.",
+        image: { src: `${IMG}/gallery-d2600c02a3.webp`, alt: "Liegewiese und Naturbadesee von Weinland Camping im Sommer" },
       },
       {
         title: "Moderne Sanitäranlagen",
@@ -81,9 +81,9 @@ const weinlandCamping: CampsiteConfig = {
         image: { src: `${IMG}/gallery-6ce994e19b.webp`, alt: "Barrierefreies Bad der neuen Sanitäranlagen von Weinland Camping" },
       },
       {
-        title: "Große Liegewiese",
-        text: "8.000 m² Liegewiese mit Schatten spendenden Bäumen und Sonnenschirmen — direkt am Naturbadesee, ideal zum Sonnen und Ausspannen.",
-        image: { src: `${IMG}/gallery-6a777ad235.webp`, alt: "Liegewiese am Naturbadesee mit See-Pavillon" },
+        title: "Stellplätze mit Strom",
+        text: "38 ebene Touristenstellplätze mit 16-A-Stromanschluss und beschilderter Zufahrt — genügend Raum für dein persönliches Campingvergnügen.",
+        image: { src: `${IMG}/gallery-c69d068343.webp`, alt: "Stellplatz mit Wohnmobil und Vorzelt bei Weinland Camping" },
       },
       {
         title: "Beachvolleyball & Tischtennis",
