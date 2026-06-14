@@ -28,7 +28,7 @@ const weinlandCamping: CampsiteConfig = {
   pillars: [
     {
       title: "Direkt am Naturbadesee",
-      text: "Mit 1,2 Hektar Wasserfläche und großer Liegewiese liegt der Naturbadesee unmittelbar am Platz — für Campinggäste ist der Eintritt frei.",
+      text: "Der 1,2-Hektar-Naturbadesee liegt direkt am Platz — für alle Campinggäste ist der Eintritt frei.",
       image: { src: `${IMG}/gallery-4ef9be0e1b.webp`, alt: "Luftaufnahme von Weinland Camping am Naturbadesee in Gleinstätten" },
     },
     {
@@ -38,7 +38,7 @@ const weinlandCamping: CampsiteConfig = {
     },
     {
       title: "Familiär seit 1953",
-      text: "Karlheinz Jammernegg und sein Team führen den Platz persönlich — vom holländischen Klub ANWB einst zum schönsten Campingplatz Europas gewählt.",
+      text: "Karlheinz Jammernegg führt den Platz persönlich — einst vom ANWB zum schönsten Campingplatz Europas gewählt.",
       image: { src: `${IMG}/gallery-8c2548a3bf.webp`, alt: "Empfang und Einfahrt von Weinland Camping" },
     },
   ],
@@ -77,12 +77,12 @@ const weinlandCamping: CampsiteConfig = {
       },
       {
         title: "Moderne Sanitäranlagen",
-        text: "2018 neu gebaut nach ADAC-5-Sterne-Kriterien: barrierefrei, beheizt, mit Einzelwaschkabinen, Wickelraum und einem Gäste-Mietbadezimmer.",
+        text: "2018 neu nach ADAC-5-Sterne-Kriterien: barrierefrei, beheizt, mit Einzelwaschkabinen, Wickelraum und Mietbadezimmer.",
         image: { src: `${IMG}/gallery-9bcde19bc9.webp`, alt: "Moderne Sanitäranlagen mit Waschbereich und Spiegel bei Weinland Camping" },
       },
       {
         title: "Stellplätze mit Strom",
-        text: "38 ebene Touristenstellplätze mit 16-A-Stromanschluss und beschilderter Zufahrt — genügend Raum für dein persönliches Campingvergnügen.",
+        text: "38 ebene Stellplätze mit 16-A-Stromanschluss und beschilderter Zufahrt — genügend Raum für dein Campingvergnügen.",
         image: { src: `${IMG}/gallery-c69d068343.webp`, alt: "Stellplatz mit Wohnmobil und Vorzelt bei Weinland Camping" },
       },
       {
@@ -133,7 +133,7 @@ const weinlandCamping: CampsiteConfig = {
     items: [
       {
         title: "Baden im Naturbadesee",
-        text: "Kopfüber ins klare Wasser, dann zurück auf die Liegewiese — der rund 10.000 m² große Badesee gehört für dich als Gast einfach dazu.",
+        text: "Kopfüber ins klare Wasser, dann zurück auf die Liegewiese — der 10.000 m² große Badesee gehört einfach dazu.",
         image: { src: `${IMG}/activity-ef0fccef2f.webp`, alt: "Badegäste springen in den Naturbadesee" },
       },
       {
@@ -143,12 +143,12 @@ const weinlandCamping: CampsiteConfig = {
       },
       {
         title: "Radtouren im Sulmtal",
-        text: "Der familienfreundliche Sulmtalradweg R1 verläuft fast autofrei durch Wälder und Weinhänge — ein E-Bike leihst du dir direkt am Platz.",
+        text: "Der Sulmtalradweg R1 verläuft autofrei durch Wälder und Weinhänge — E-Bikes leihst du dir direkt am Platz.",
         image: { src: `${IMG}/gallery-6c4b68b8a2.webp`, alt: "Radfahrer auf E-Bikes bei Weinland Camping" },
       },
       {
         title: "Wandern im Weinland",
-        text: "Zwischen Weinbergen, Kürbisfeldern und Buschenschenken führen unzählige Wege — vom Kunstwanderweg bis zum steilsten Weinberg in Kitzeck.",
+        text: "Weinberge, Kürbisfelder und Buschenschenken warten auf dich — vom Kunstwanderweg bis zum steilsten Weinberg in Kitzeck.",
         image: { src: `${IMG}/gallery-af62416908.webp`, alt: "Weinberge der Südsteiermark rund um Gleinstätten" },
       },
     ],
