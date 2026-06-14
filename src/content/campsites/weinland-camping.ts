@@ -78,7 +78,7 @@ const weinlandCamping: CampsiteConfig = {
       {
         title: "Moderne Sanitäranlagen",
         text: "2018 neu gebaut nach ADAC-5-Sterne-Kriterien: barrierefrei, beheizt, mit Einzelwaschkabinen, Wickelraum und einem Gäste-Mietbadezimmer.",
-        image: { src: `${IMG}/gallery-6ce994e19b.webp`, alt: "Barrierefreies Bad der neuen Sanitäranlagen von Weinland Camping" },
+        image: { src: `${IMG}/gallery-9bcde19bc9.webp`, alt: "Moderne Sanitäranlagen mit Waschbereich und Spiegel bei Weinland Camping" },
       },
       {
         title: "Stellplätze mit Strom",
